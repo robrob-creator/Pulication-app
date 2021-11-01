@@ -37,7 +37,7 @@ export default function TopBar() {
             </Link>
       </Nav.Link>
       <Nav.Link>
-            <Link className="link" to="/">
+            <Link className="link" to="/contact">
               CONTACT
             </Link>
       </Nav.Link>

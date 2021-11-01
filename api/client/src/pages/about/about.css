@@ -19,6 +19,11 @@
     height:100%;
     position:'relative';
   }
+  .aboutimg{
+    width: 40px;
+    padding: 3px;
+    border-radius: 50%;
+  }
   .cont{
       margin-bottom: 120px;
   }

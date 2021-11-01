@@ -1,13 +1,17 @@
 import React from 'react'
 import "./about.css"
 import "bootstrap/dist/css/bootstrap.css"
+import logo from './logo.png';
+import {AxiosInstance} from "../../config";
 
 export default function About() {
     return (
         <div className="about">
             <div class="jumbotron text-center p-5">
-            <h1>Publication</h1>
+            <h1>PUBLICATION</h1>
             <p>We offer the best updates</p>
+            <img src={logo}className="w-25"/>
+
             </div>
             <div className="m-5">
             <div class="container-fluid ">

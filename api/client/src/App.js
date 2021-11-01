@@ -3,6 +3,7 @@ import TopBar from "./components/topbar/TopBar";
 import Single from "./pages/single/Single";
 import Footer from "./components/footer/Footer";
 import About  from "./pages/about/About";
+import Contact from "./pages/contact/Contact";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { useContext } from "react";
 import { Context } from "./context/Context";
@@ -21,6 +22,9 @@ function App() {
         </Route>
         <Route path="/about">
           <About />
+        </Route>
+        <Route path="/contact">
+          <Contact />
         </Route>
       </Switch>
       <Footer />

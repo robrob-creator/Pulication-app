@@ -1,6 +1,7 @@
 .page-footer{
     background-color: #027095;
-    padding: 20px;
+    padding: 5px;
     width: 100%;
-    position: sticky;
+   position: fixed;
+   bottom: 0;
 }
