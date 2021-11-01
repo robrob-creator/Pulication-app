@@ -1,0 +1,24 @@
+.jumbotron {
+    background-color: #027095;
+    color: #ffffff;
+    height: 250px;
+  }
+.heading{
+    padding: 50px;
+}
+ .iconx {
+    font-size: 200px;
+    color: #027095;
+  }
+  .iconx2 {
+    font-size: 200px;
+    color: #027095;
+  }
+  .about{
+    border:'1px solid red';
+    height:100%;
+    position:'relative';
+  }
+  .cont{
+      margin-bottom: 120px;
+  }
