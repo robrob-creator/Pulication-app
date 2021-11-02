@@ -2,7 +2,6 @@ import React from 'react'
 import "./about.css"
 import "bootstrap/dist/css/bootstrap.css"
 import logo from './logo.png';
-import {AxiosInstance} from "../../config";
 
 export default function About() {
     return (

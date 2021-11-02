@@ -1,6 +1,5 @@
 import React from 'react'
 import './contact.css'
-import {AxiosInstance} from "../../config";
 import 'bootstrap/dist/css/bootstrap.css'
 
 export default function Contact() {
